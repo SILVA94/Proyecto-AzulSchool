@@ -1,7 +1,7 @@
 # CURSO de C++ de **AZUL SCHOOL**  
 
 
-Ejercicios del lenguaje  **C**  
+Ejercicios del lenguaje  **C++**  
 
 1. Modulo entradas-salidas
 2. Modulo operaciones
